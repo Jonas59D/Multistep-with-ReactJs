@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../FORM_PROJECT"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RESPONSIVIDADE"
+	}
+}
